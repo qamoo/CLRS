@@ -27,6 +27,15 @@ I hope to organize solutions to help people and myself study algorithms. By usin
 
 _"Many a little makes a mickle."_
 
+## 시작하기
+
+이 **[웹사이트](https://walkccc.github.io/CLRS/)**에는 [**알고리즘 입문** _세 번째 판_](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)이란 성경 같은 교재의 거의 완전한 해답이 있습니다. 이 책은 [토마스 H. 코르멘](https://mitpress.mit.edu/contributors/thomas-h-cormen), [찰스 E. 라이터슨](https://mitpress.mit.edu/contributors/charles-e-leiserson), [론날드 L. 리베스트](https://mitpress.mit.edu/contributors/ronald-l-rivest), [클리포드 스타인](https://mitpress.mit.edu/contributors/clifford-stein)이 공저한 것입니다.
+
+저는 이 솔루션들을 정리하여 사람들과 저 자신이 알고리즘을 공부하는 데 도움이 되기를 희망합니다. [Markdown (.md)](https://en.wikipedia.org/wiki/Markdown) 파일과 [KaTeX](https://katex.org) 수학 라이브러리를 사용하여, 이 페이지는 휴대용 장치에서 훨씬 가독성이 높습니다.
+
+_"작은 것이 많으면 큰 것이 됩니다."_
+
+
 ## Contributors
 
 Thanks to the authors of [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html), [Michelle Bodnar](mailto:chellebodnar@gmail.com) (who writes the even-numbered problems) and [Andrew Lohr](mailto:Andrew.Lohr@gmail.com) (who writes the odd-numbered problems), [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), [@Gutdub](https://github.com/Gutdub), etc.
