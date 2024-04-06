@@ -78,6 +78,12 @@ As for rendering math equations, I use [KaTeX](https://katex.org/), which is fas
 
 I also add `overflow-x: auto` to prevent the overflow issue on small screen devices so that you can scroll horizontally in the math display equations.
 
+이 웹사이트를 구축하는 데는 정적 사이트 생성기 MkDocs와 멋진 테마 Material for MkDocs를 사용합니다.
+
+수학식 렌더링에는 빠르고 아름다운 KaTeX를 사용합니다.
+
+또한 작은 화면 기기에서 오버플로우 문제를 방지하기 위해 수식 표시에서 수평으로 스크롤할 수 있도록 overflow-x: auto를 추가합니다.
+
 ## More Information
 
 For a clear commit history, I rebase my repository regularly. Therefore, if you have forked the repository before, consider re-forking it again.
