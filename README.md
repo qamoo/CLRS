@@ -94,6 +94,14 @@ Updated to this new page on April 13, 2018, at 04:48 [(GMT+8)](https://time.is/G
 
 Revised on July 21, 2019.
 
+명확한 커밋 히스토리를 위해 내 저장소를 정기적으로 리베이스합니다. 따라서 이전에 저장소를 포크한 경우 다시 포크하는 것을 고려해주시기 바랍니다.
+
+더 많은 정보는 내 GitHub를 방문해주세요.
+
+이 새로운 페이지가 2018년 4월 13일 04:48 (GMT+8)에 업데이트되었습니다.
+
+2019년 7월 21일에 수정되었습니다.
+
 ## License
 
 Licensed under the MIT License.
