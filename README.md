@@ -44,6 +44,14 @@ Special thanks to [@JeffreyCA](https://github.com/JeffreyCA), who fixed math ren
 
 If I miss your name here, please tell me!
 
+CLRS 솔루션의 저자인 Michelle Bodnar(짝수 문제를 작성)와 Andrew Lohr(홀수 문제를 작성)에게 감사드립니다. 또한, @skanev, @CyberZHG, @yinyanghu, @Gutdub 등에게도 감사드립니다.
+
+GitHub에 기여한 모든 분들께 감사드립니다. 여러분 덕분에 이 저장소가 더 나은 참고 자료로 발전하고 있습니다!
+
+특별히, iOS Safari에서 수학 렌더링을 수정해 준 @JeffreyCA에게 특별한 감사를 전합니다.
+
+만약 여기서 이름을 빼먹었다면, 알려주세요!
+
 ## Motivation
 
 I build this website since I want to help everyone learn algorithms by providing something easy to read on mobile devices.
