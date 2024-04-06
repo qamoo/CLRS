@@ -62,6 +62,14 @@ There're lots of [issues](https://github.com/walkccc/CLRS/issues) regarding to s
 
 Thank you very much, and I hope that everyone will learn algorithms smoothly.
 
+이 웹사이트를 만든 이유는 모바일 기기에서 쉽게 읽을 수 있는 내용을 제공하여 모두가 알고리즘을 배우는 데 도움을 주고 싶었기 때문입니다.
+
+따라서 필요한 경우 언제든지 조정이 필요하거나 동일한 동기를 가지고 이 작업에 기여하고 싶다면 피드백을 주시기 바랍니다. 컨텐츠를 편집하려면 오른쪽 상단의 "연필 아이콘"을 클릭하거나 이 저장소에 이슈를 열 수 있습니다. 내가 리뷰하고 풀 리퀘스트에 일부 형태 수정을 한 후 당신의 솔루션이 재기반될 것입니다.
+
+이 저장소에는 해답에 관한 많은 문제가 있습니다. 시간이 있다면 한 번 살펴보고 인터넷 상에서 사람들을 도와주십시오 :)
+
+매우 감사합니다. 모두가 알고리즘을 원활하게 배울 수 있기를 바랍니다.
+
 ## How I Generate the Website?
 
 I use the static site generator [MkDocs](http://www.mkdocs.org/) and the beautiful theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) to build this website.
